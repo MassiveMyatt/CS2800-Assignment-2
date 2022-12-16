@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"uk.ac.rhul.cs2800","c":"Stack","l":"pop()"},{"p":"uk.ac.rhul.cs2800","c":"Stack","l":"push(entry)","u":"push(uk.ac.rhul.cs2800.entry)"},{"p":"uk.ac.rhul.cs2800","c":"Stack","l":"size()"},{"p":"uk.ac.rhul.cs2800","c":"Stack","l":"Stack()","u":"%3Cinit%3E()"},{"p":"uk.ac.rhul.cs2800","c":"Stack","l":"top()"}];updateSearchResults();

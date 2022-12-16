@@ -1,0 +1,23 @@
+commit 4a8252c2fcf7a9749b71691bebf69a67a4c4ecc5 (HEAD -> NumStack, origin/NumStack)
+Author: Joshua Myatt <zjac115@cim-ts-node-02.cc.rhul.local>
+Date:   Mon Nov 28 10:37:39 2022 +0000
+
+    NumStack feature branch with full functionality
+
+commit 81655bef487cbd3892a68d97a1de35f0d9034660
+Author: zjac115 <zjac115@cim-ts-node-03.cc.rhul.local>
+Date:   Mon Nov 7 09:50:23 2022 +0000
+
+    Edited Initial Commit of Coursework 1 files
+
+commit 758fe1fe1df48e4f93d9811d0132e58a0a70c55f
+Author: zjac115 <zjac115@cim-ts-node-03.cc.rhul.local>
+Date:   Mon Nov 7 09:46:41 2022 +0000
+
+    Initial Coursework 1 commit
+
+commit db7307f0b1541f3725ff1fdb9032e9720ec1e6c4
+Author: Myatt Joshua (2020) ZJAC115 <joshua.myatt.2020@live.rhul.ac.uk>
+Date:   Fri Oct 14 18:11:14 2022 +0000
+
+    Initial commit
